@@ -106,3 +106,4 @@ venv.bak/
 # 
 data/PUBG_train.csv
 notebook.tex
+data/exported_data.csv
